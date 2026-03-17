@@ -29,6 +29,25 @@ class AIAnalyzer:
 
     def transcribe(self, video_path: str, model: str = "base") -> Transcription:
         """Transcribe video using faster-whisper. Returns word-level timestamps."""
+        # Check if video has an audio stream before attempting transcription
+        import subprocess as _sp, json as _json
+        probe = _sp.run(
+            ["ffprobe", "-v", "quiet", "-print_format", "json", "-show_streams", video_path],
+            capture_output=True, text=True,
+        )
+        has_audio = False
+        try:
+            for s in _json.loads(probe.stdout).get("streams", []):
+                if s.get("codec_type") == "audio":
+                    has_audio = True
+                    break
+        except (_json.JSONDecodeError, KeyError):
+            pass
+
+        if not has_audio:
+            # Return empty transcription for videos without audio
+            return Transcription(language="unknown", duration=0, segments=[])
+
         from faster_whisper import WhisperModel
 
         whisper = WhisperModel(model, device="cpu", compute_type="int8")

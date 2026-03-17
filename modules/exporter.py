@@ -51,7 +51,7 @@ class Exporter:
             "ffmpeg", "-y", "-i", video_path,
             "-vf", scale_filter,
             "-r", str(platform["fps"]),
-            "-c:v", f"lib{platform['codec']}",
+            "-c:v", "libx264",
             "-crf", str(qual["crf"]),
             "-preset", qual["preset"],
             "-c:a", "aac", "-b:a", "128k",

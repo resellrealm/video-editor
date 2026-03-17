@@ -55,7 +55,7 @@ class Preprocessor:
         output = _tmp_path(video_path, "_normalized.mp4")
         cmd = [
             "ffmpeg", "-y", "-i", video_path,
-            "-c:v", f"lib{target_codec}", "-r", str(target_fps),
+            "-c:v", "libx264", "-r", str(target_fps),
             "-preset", "fast", "-crf", "23",
             "-c:a", "aac", "-b:a", "128k",
             output,

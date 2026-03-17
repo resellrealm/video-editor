@@ -69,7 +69,11 @@ def process_video(input_path: str, args) -> str:
 
     # ─── Step 1: Preprocessing ───────────────────────────
     print("\n[1/7] Preprocessing...")
-    info = preprocessor.analyze(working_video)
+    try:
+        info = preprocessor.analyze(working_video)
+    except Exception as e:
+        print(f"Error: Could not read video file: {e}")
+        return None
     print(f"  Input: {info.width}x{info.height} @ {info.fps:.1f}fps, {info.duration:.1f}s")
 
     # Trim silence
