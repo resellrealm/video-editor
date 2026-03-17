@@ -10,26 +10,26 @@
 
 ### How Park-It and Surve Complement Each Other
 
-Park-It and Surve serve different jobs but share a common user profile: **urban professionals who value efficiency and smart tools**. The connection point is lifestyle — people who use smart apps to save time parking are the same people who want fast, mobile-first ways to gather feedback at work.
+Park-It and Surve serve different jobs but share a common user profile: **active, on-the-go people who value smart tools**. The connection point is lifestyle — people who use smart apps to save time parking are the same people who play sports and need easy score tracking.
 
-**The Bridge Concept: "Smart City Living"**
-- Position both apps under a lifestyle umbrella: tools for people who move fast and decide faster
-- Park-It = smart mobility. Surve = smart decisions. Together = the smart urban toolkit.
+**The Bridge Concept: "Smart Active Living"**
+- Position both apps under a lifestyle umbrella: tools for people who move fast and play hard
+- Park-It = smart mobility. Surve = smart sports scoring. Together = the smart active lifestyle toolkit.
 
 ### Shared Content Themes
 
 | Theme | Park-It Angle | Surve Angle |
 |-------|--------------|-------------|
-| **Time Savings** | "Stop circling. Start parking." | "Stop guessing. Start asking." |
-| **Urban Life** | Navigating city parking chaos | Quick polls for team lunches, events |
-| **Smart Decisions** | Data-driven parking choices | Data-driven team decisions |
-| **Frustration → Relief** | Parking stress eliminated | Meeting fatigue → quick survey instead |
+| **Time Savings** | "Stop circling. Start parking." | "Stop arguing. Start scoring." |
+| **Active Life** | Navigating city parking chaos | Tracking pickup games and rec leagues |
+| **Smart Tools** | Data-driven parking choices | Real-time score tracking for any sport |
+| **Frustration → Relief** | Parking stress eliminated | Score disputes eliminated |
 | **Behind the Scenes** | How we build Park-It | How we build Surve |
-| **Tips & Hacks** | City parking tips | Survey design best practices |
+| **Tips & Hacks** | City parking tips | Sports scoring tips and game strategies |
 
 ### Cross-Pollination Tactics
 
-1. **In-App Cross-Promotion**: After a user completes a key action (parks successfully / finishes a survey), show a tasteful banner: "From the makers of Park-It — try Surve" and vice versa
+1. **In-App Cross-Promotion**: After a user completes a key action (parks successfully / finishes a game), show a tasteful banner: "From the makers of Park-It — try Surve" and vice versa
 2. **Shared Email Footer**: Every transactional email from either app includes "Also from Autonomous App Studio: [other app]"
 3. **Social Media Pinned Posts**: Each app's social account pins a post introducing the sister app
 4. **Joint Landing Page**: autonomousappstudio.com with both apps featured — drives SEO and cross-discovery
@@ -49,9 +49,9 @@ Park-It and Surve serve different jobs but share a common user profile: **urban 
 - Urban, metropolitan energy
 
 **Surve Specific Tone:**
-- Friendly, approachable, colorful
-- Encouraging ("Your team has opinions. Now you can hear them.")
-- Productive, collaborative energy
+- Energetic, sporty, fun
+- Encouraging ("Every game deserves a scoreboard. Now it has one.")
+- Competitive, active energy
 
 ---
 
@@ -63,8 +63,8 @@ Park-It and Surve serve different jobs but share a common user profile: **urban 
 |----------|-----------------|----------------|-----|
 | **Instagram** | PRIMARY | PRIMARY | Visual storytelling, Reels for demos, Stories for engagement |
 | **TikTok** | PRIMARY | SECONDARY | Short-form video perfect for "parking fails → solution" content |
-| **X/Twitter** | SECONDARY | PRIMARY | Quick tips, polls (native to Surve's DNA), tech community |
-| **LinkedIn** | LOW | SECONDARY | Surve's B2B angle (team surveys), thought leadership |
+| **X/Twitter** | SECONDARY | PRIMARY | Live game updates, sports banter, score sharing |
+| **LinkedIn** | LOW | LOW | Indie dev journey, build in public |
 | **Reddit** | SECONDARY | LOW | r/urbanplanning, r/cityporn, r/parking for Park-It niche |
 
 ### Account Strategy: RECOMMENDATION
@@ -75,12 +75,12 @@ Park-It and Surve serve different jobs but share a common user profile: **urban 
 |---------|--------|---------|
 | Park-It (IG) | @parkit.app | App-specific content, parking tips, city life |
 | Park-It (TikTok) | @parkit.app | Parking fails, demos, urban content |
-| Surve (IG) | @surve.app | Survey tips, team culture, product demos |
-| Surve (X/Twitter) | @surveapp | Polls, survey tips, product updates |
+| Surve (IG) | @surve.app | Sports scoring demos, game highlights, rec league content |
+| Surve (X/Twitter) | @surveapp | Live scores, sports banter, product updates |
 | Studio (IG) | @autonomousstudio | Behind-the-scenes, cross-promo, brand story |
 | Studio (X/Twitter) | @autonomousstudio | Company news, launches, cross-promo |
 
-**Why separate:** Each app has a distinct audience and visual identity. Mixing monochrome parking content with colorful survey content dilutes both brands. The studio account is the bridge — it cross-promotes naturally.
+**Why separate:** Each app has a distinct audience and visual identity. Mixing monochrome parking content with sporty scoring content dilutes both brands. The studio account is the bridge — it cross-promotes naturally.
 
 ### Posting Schedule
 
@@ -111,11 +111,11 @@ Copy Variants:
 
 **Tuesday — Surve IG Feed**
 Post Type: Reel (15 sec)
-Visual: Screen recording of creating a survey in under 15 seconds, colorful UI, upbeat music
+Visual: Screen recording of starting a basketball game and tapping to score, colorful UI, upbeat music
 Copy Variants:
-1. "Survey created in 14 seconds. Results in real-time. That meeting could've been a Surve. 📊 #Surve #SurveyApp #TeamFeedback #WorkSmarter"
-2. "Stop scheduling meetings to ask simple questions. Surve it. 📊 #Surve #QuickPolls #TeamDecisions #ProductivityHack"
-3. "Your team has opinions. Now hear them in seconds, not hours. 📊 #Surve #FeedbackLoop #MobileFirst #TeamTools"
+1. "Game started. Score tracked. All in 5 seconds. Surve keeps score so you focus on the game. 🏀 #Surve #ScoreTracker #SportsApp #GameOn"
+2. "Stop arguing about the score. Surve it. 🏀 #Surve #LiveScore #PickupGames #SportsHack"
+3. "Every game deserves a scoreboard. Now it has one. 🏀 #Surve #SportScoring #MobileFirst #GameTime"
 
 **Wednesday — Park-It IG Feed**
 Post Type: Single image
@@ -124,21 +124,21 @@ Copy: "Every green dot is a spot waiting for you. Real-time. Always updating. Al
 
 **Thursday — Surve X/Twitter**
 Post Type: Poll + thread
-Copy: "Quick poll: How do you usually collect team feedback? 🔘 Slack message, 🔘 Email chain, 🔘 In a meeting, 🔘 I don't (yikes). There's a faster way → surve.app #Surve #TeamFeedback"
+Copy: "Quick poll: How do you keep score during pickup games? 🔘 Someone remembers, 🔘 Pen and paper, 🔘 Whiteboard, 🔘 We just guess (yikes). There's a better way → surve.app 🏀 #Surve #ScoreTracker"
 
 **Friday — Studio IG Feed (Cross-Promo)**
 Post Type: Carousel introducing both apps
-Visual: Slide 1: "Meet the Autonomous App Studio family" / Slide 2: Park-It hero shot (dark) / Slide 3: Surve hero shot (colorful) / Slide 4: "Smart city. Smart decisions." / Slide 5: "Download both — links in bio"
-Copy: "Two apps. One mission: save you time. 🅿️ @parkit.app finds parking fast. 📊 @surve.app gets answers faster. Built by @autonomousstudio. #AutonomousApps #SmartCityTools #IndieApps"
+Visual: Slide 1: "Meet the Autonomous App Studio family" / Slide 2: Park-It hero shot (dark) / Slide 3: Surve hero shot (colorful) / Slide 4: "Smart parking. Smart scoring." / Slide 5: "Download both — links in bio"
+Copy: "Two apps. One mission: make life easier. 🅿️ @parkit.app finds parking fast. 🏀 @surve.app tracks game scores instantly. Built by @autonomousstudio. #AutonomousApps #SmartLiving #IndieApps"
 
 **Saturday — Surve IG Feed**
 Post Type: Reel (30 sec)
-Visual: "5 surveys you should send this week" — quick tips with Surve UI overlays
-Copy: "Monday standup check-in. Tuesday lunch poll. Wednesday retro feedback. Thursday event RSVP. Friday vibes check. All in Surve. All in seconds. 📊 #Surve #WeeklySurveys #TeamCulture"
+Visual: "5 games you can score with Surve this week" — quick demos with Surve UI overlays
+Copy: "Monday basketball. Tuesday tennis. Wednesday volleyball. Thursday soccer. Friday badminton. All in Surve. All tracked. 🏀🎾⚽ #Surve #WeeklyGames #SportsLife"
 
 **Sunday — Rest / Stories only**
 Park-It Story: "Sunday parking tip: Most city meters are free on Sundays. But just in case... 🅿️"
-Surve Story: Poll sticker — "What's your #1 frustration with team surveys?" (engagement play)
+Surve Story: Poll sticker — "What sport do you play most on weekends?" (engagement play)
 
 ---
 
@@ -150,26 +150,26 @@ Script: [0-3s] POV driving, text: "10 minutes circling..." [3-7s] More driving, 
 Copy: "10 minutes of your life you'll never get back. Unless you have Park-It. 🅿️ #ParkIt #ParkingStress #CityDriving #NeverCircleAgain"
 
 **Tuesday — Surve IG Feed**
-Post Type: Carousel — "The Evolution of Getting Feedback"
-Slide 1: Cave painting (asking tribe) / Slide 2: Suggestion box / Slide 3: 47-email thread / Slide 4: 90-minute meeting about a meeting / Slide 5: Surve — 14 seconds, done.
-Copy: "Feedback collection has come a long way. Or has it? Upgrade to Surve. 📊 #Surve #FeedbackEvolution #WorkSmarter #NoMoreMeetings"
+Post Type: Carousel — "The Evolution of Keeping Score"
+Slide 1: Cave painting (tallying hunts) / Slide 2: Chalkboard scoreboard / Slide 3: Paper scorecard / Slide 4: Arguing about the score at halftime / Slide 5: Surve — one tap, done.
+Copy: "Scorekeeping has come a long way. Or has it? Upgrade to Surve. 🏀 #Surve #ScoreEvolution #SportsApp #GameChanger"
 
 **Wednesday — Park-It TikTok**
 Visual: Trending audio + "things that just make sense" format. Show: Park-It finding a spot instantly.
 Copy: "POV: You downloaded Park-It and never circled the block again 🅿️ #ParkIt #ParkingHack #CityLife #fyp #urbanlife"
 
 **Thursday — Surve X/Twitter Thread**
-"5 decisions your team is making wrong because nobody asked:
-1/ Where to eat for the team outing (the vocal minority always wins)
-2/ Which feature to build next (HiPPO decides)
-3/ Meeting time that works for everyone (spoiler: it doesn't)
-4/ Remote vs. office preference (assumptions everywhere)
-5/ Whether that rebrand actually resonates
-Fix all 5 with one app: surve.app 📊"
+"5 reasons your pickup games need a score tracker:
+1/ Nobody can remember the score after halftime
+2/ Arguments about who scored what waste 10 minutes
+3/ That one player who always 'miscounts' in their favor
+4/ You want to track your win streak but can't
+5/ Your rec league has zero records of past games
+Fix all 5 with one app: surve.app 🏀"
 
 **Friday — Studio IG Stories (Cross-Promo Series)**
 Story 1: "This or That: Park-It edition" (interactive sticker — "Drive around or use Park-It?")
-Story 2: "This or That: Surve edition" (interactive sticker — "30-min meeting or 30-sec survey?")
+Story 2: "This or That: Surve edition" (interactive sticker — "Argue about the score or just use Surve?")
 Story 3: Link stickers to both apps
 
 **Saturday — Park-It IG Feed**
@@ -187,29 +187,29 @@ Visual: Black card with white text, 5-star rating, quote
 Copy: "\"I used to budget 20 extra minutes for parking. Now I budget zero.\" — Early Park-It user. Join the beta → link in bio. 🅿️ #ParkIt #BetaTesters #ParkingRevolution"
 
 **Tuesday — Surve IG Reel**
-Visual: Split screen — left side: person typing a long email asking for feedback. Right side: person creating a Surve in 14 seconds, getting results instantly.
-Copy: "Left: the old way. Right: the Surve way. Which one are you? 📊 #Surve #WorkSmarter #SurveyApp #ProductivityTips"
+Visual: Split screen — left side: person arguing about the score on a basketball court. Right side: person tapping Surve to track the score in real-time.
+Copy: "Left: the old way. Right: the Surve way. Which one are you? 🏀 #Surve #GameOn #ScoreTracker #SportsApp"
 
 **Wednesday — Joint TikTok (Park-It account, tags Surve)**
 Visual: "Apps that actually solve problems" trend format
-Script: "Apps that actually solve a problem nobody else bothered to fix: 🅿️ Park-It — real-time parking in your city. 📊 Surve — surveys that take seconds, not meetings. Built by the same indie team. Links in bio."
-Copy: "#indieapps #appsthatslap #smartcity #parkit #surve #fyp"
+Script: "Apps that actually solve a problem nobody else bothered to fix: 🅿️ Park-It — real-time parking in your city. 🏀 Surve — track any game score with one tap. Built by the same indie team. Links in bio."
+Copy: "#indieapps #appsthatslap #smartliving #parkit #surve #fyp"
 
 **Thursday — Surve X/Twitter**
 "We asked our beta users: 'What's the best thing about Surve?'
-Top answer: 'I replaced a weekly 30-minute meeting with a 2-question survey.'
-That's 26 hours/year saved. Per meeting. 📊
+Top answer: 'No more arguments about the score at halftime. Everyone can see it live.'
+That's zero disputes per game. Every game. 🏀
 Try it: surve.app"
 
 **Friday — Studio IG Feed**
 Post Type: Behind-the-scenes carousel
 Slide 1: "How we build two apps as an indie studio" / Slide 2: Screenshot of code editor / Slide 3: Design mockups side by side / Slide 4: "Park-It + Surve: different problems, same obsession with simplicity" / Slide 5: "Follow the journey @autonomousstudio"
-Copy: "Two apps. Indie team. Zero meetings that could've been surveys. 😏 #AutonomousApps #IndieDevLife #BuildInPublic #AppDev"
+Copy: "Two apps. Indie team. Building tools we actually use every day. 💪 #AutonomousApps #IndieDevLife #BuildInPublic #AppDev"
 
 **Saturday — Surve IG Feed**
-Post Type: Infographic — "Survey Response Rates: What Works"
-Visual: Clean, colorful data visualization
-Copy: "Shorter surveys = higher completion rates. Surve keeps it tight by design. 📊 Here's the data on what actually gets responses. #Surve #SurveyTips #DataDriven #UXDesign"
+Post Type: Infographic — "10 Sports You Can Score with Surve"
+Visual: Clean, colorful grid showing all 10 sports with their icons and color themes
+Copy: "Rugby. Football. Basketball. Tennis. Cricket. Baseball. Hockey. Volleyball. Soccer. Badminton. All in one app. 🏀🎾⚽🏈🏏 #Surve #SportsScoring #AllSports #GameTracker"
 
 ---
 
@@ -220,18 +220,18 @@ Visual: City timelapse (sped up), cars circling. Slow down to one car using Park
 Copy: "Everyone else is circling. You're parking. 🅿️ Download Park-It — link in bio. #ParkIt #DownloadNow #SmartParking #CityLiving"
 
 **Tuesday — Surve IG Feed**
-Post Type: "How to" carousel — "Create your first survey in 60 seconds"
+Post Type: "How to" carousel — "Track your first game in 30 seconds"
 Visual: Step-by-step screenshots of Surve UI
-Copy: "Step 1: Open Surve. Step 2: Type your question. Step 3: Share. Step 4: Watch responses roll in. That's it. No account setup wizards. No 47-field forms. Just answers. 📊 #Surve #GetStarted #SurveyMadeSimple"
+Copy: "Step 1: Open Surve. Step 2: Pick your sport. Step 3: Tap to score. Step 4: Finish the game and see your history. That's it. No setup. No sign-up required. Just scoring. 🏀 #Surve #GetStarted #ScoreMadeSimple"
 
 **Wednesday — Joint Giveaway Launch (All Platforms)**
 Visual: Split design — left half monochrome (Park-It), right half colorful (Surve)
 Copy: "🎁 GIVEAWAY: Win a $50 App Store gift card + lifetime premium on BOTH Park-It and Surve. To enter: 1️⃣ Follow @parkit.app + @surve.app + @autonomousstudio 2️⃣ Like this post 3️⃣ Tag 2 friends who need these apps. Bonus entry: Share to Stories! Winner announced next Monday. #Giveaway #AppGiveaway #ParkIt #Surve #AutonomousApps #SmartCityTools"
 
 **Thursday — Surve X/Twitter**
-"Your team's best ideas are stuck in people's heads because nobody asked.
-Send a 2-question Surve today. You'll be surprised what comes back.
-→ surve.app 📊"
+"Your pickup games deserve better than 'wait, what's the score again?'
+Start tracking with Surve today. You'll never argue about the score again.
+→ surve.app 🏀"
 
 **Friday — Park-It TikTok**
 Visual: "Honest review" style — creator shows themselves using Park-It in a real city
@@ -249,12 +249,12 @@ Copy: "Month 1 in the books. Two apps growing, one community forming. Thanks for
 
 ### Campaign 1: "Smart City Challenge" (4-week Instagram/TikTok campaign)
 
-**Concept:** Challenge followers to optimize their week using both apps. Park smarter with Park-It, decide faster with Surve.
+**Concept:** Challenge followers to optimize their week using both apps. Park smarter with Park-It, score every game with Surve.
 
 **Mechanics:**
 - Week 1: Download both apps, share screenshots of first use
-- Week 2: Use Park-It 3x, create 1 survey with Surve — post about the experience
-- Week 3: Share your time saved (Park-It) and best survey insight (Surve)
+- Week 2: Use Park-It 3x, track 1 game with Surve — post about the experience
+- Week 3: Share your time saved (Park-It) and best game score (Surve)
 - Week 4: Tag a friend who needs these apps, best story wins prizes
 
 **Hashtag:** #SmartCityChallenge
@@ -267,17 +267,17 @@ Copy: "Month 1 in the books. Two apps growing, one community forming. Thanks for
 
 Examples:
 - "City Hack #1: Never pay for parking you don't need. Park-It shows real-time availability."
-- "City Hack #2: Planning a team outing? Skip the group chat. Surve it in 30 seconds."
+- "City Hack #2: Playing pickup basketball? Track the score with Surve. No arguments."
 - "City Hack #3: Save your office parking spot. Park-It remembers your favorites."
-- "City Hack #4: Running a workshop? Use Surve for live polling instead of raised hands."
+- "City Hack #4: Coaching a rec league game? Use Surve as your digital scoreboard."
 
 ### Campaign 3: "From the Makers Of" (Cross-promotion series)
 
 **Concept:** Each app explicitly introduces the other in a dedicated post series.
 
-**Park-It post:** "We built Park-It to save you time finding parking. Then we thought — what else wastes your time? Meetings that should've been surveys. So we built @surve.app too. Same team, same obsession with saving you time."
+**Park-It post:** "We built Park-It to save you time finding parking. Then we thought — what else needs a simple solution? Keeping score at games. So we built @surve.app too. Same team, same obsession with solving one thing perfectly."
 
-**Surve post:** "We built Surve to get answers fast. Then we thought — what else needs a faster answer? Where to park. So we built @parkit.app too. Same team, same philosophy: stop wasting time."
+**Surve post:** "We built Surve to track game scores effortlessly. Then we thought — what else needs to be simpler? Finding parking. So we built @parkit.app too. Same team, same philosophy: one-tap solutions."
 
 ### Campaign 4: Joint Influencer Program
 
@@ -286,23 +286,23 @@ Examples:
 - 1 partnership = content for BOTH apps (cost-efficient)
 
 **Influencer Brief Template:**
-"Create 2 pieces of content: (1) A reel/TikTok showing you using Park-It in your city, (2) A story/post showing you creating a quick survey with Surve (e.g., 'Which restaurant should we try?' poll for followers). Tag both @parkit.app and @surve.app. Include 'From the same indie studio — two apps that actually save time' in your caption."
+"Create 2 pieces of content: (1) A reel/TikTok showing you using Park-It in your city, (2) A story/post showing you tracking a game score with Surve (e.g., tracking a pickup basketball game with friends). Tag both @parkit.app and @surve.app. Include 'From the same indie studio — two apps that just work' in your caption."
 
 **Deal Structure:**
 - Micro (5K-15K): Free premium access + $50-100 per deliverable pair
 - Mid (15K-50K): Free premium + $200-400 per deliverable pair
 - Offer affiliate codes: "PARKITX" / "SURVEX" for 10% off premium, influencer gets $1 per install
 
-### Campaign 5: "Survey Your City" (Bridge Campaign)
+### Campaign 5: "Score the City" (Bridge Campaign)
 
-**Concept:** Use Surve to crowdsource parking data/opinions, then reference results in Park-It content.
+**Concept:** Use Surve to track games at local courts and parks, then share results on Park-It channels for drivers heading to sports venues.
 
-Example: Create a Surve asking "What's your biggest parking frustration?" → Share results on Park-It's social → "87% of you said circling the block. Park-It fixes that."
+Example: Track scores from pickup games at popular city courts → Share highlights on social → "Game night at Rucker Park. Final score: 42-38. Scored with Surve." → Park-It audience discovers Surve for their own games.
 
 This creates a content loop:
-1. Surve creates the survey → engagement on Surve's channels
-2. Results shared on Park-It's channels → Park-It audience discovers Surve
-3. Park-It audience responds to next survey → cycle continues
+1. Surve tracks games at popular city venues → engagement on Surve's channels
+2. Game results shared with venue context → Park-It audience discovers Surve
+3. New users track their own games → cycle continues
 
 ---
 
@@ -329,37 +329,37 @@ This creates a content loop:
 - Audio: Trending upbeat sound
 - End card: "Park-It — link in bio"
 
-**Reel 2: "Meeting vs. Survey" (Surve)**
+**Reel 2: "Paper Scoreboard vs. Surve" (Surve)**
 - Duration: 20 seconds
 - Format: Split-screen comparison
-- Left side: Calendar notification "Team sync — 30 min" → person sighing → joining Zoom → waiting for stragglers → 30 min later, one decision made
-- Right side: Opens Surve → types question → shares link → 12 responses in 2 minutes → decision made
-- Text overlay: "30 minutes vs. 30 seconds"
+- Left side: Whiteboard scoreboard → someone erasing and rewriting → score argument → confusion
+- Right side: Opens Surve → picks basketball → taps to score → clear live scoreboard for everyone
+- Text overlay: "The old way vs. Surve"
 - Audio: Dramatic → upbeat transition
 
 **Reel 3: "A Day with Both Apps" (Studio cross-promo)**
 - Duration: 30 seconds
 - Format: Day-in-the-life
-- Shot list: Morning — open Park-It, find parking near office. At work — create Surve for lunch poll. Afternoon — check Surve results, team picks Thai. Evening — Park-It finds spot near restaurant. End card: "Smart city living. @parkit.app + @surve.app"
+- Shot list: Morning — open Park-It, find parking near the gym. At the court — open Surve, track a pickup basketball game. Afternoon — check game history, share final score. Evening — Park-It finds spot near dinner. End card: "Smart active living. @parkit.app + @surve.app"
 - Audio: Chill lo-fi beat
 
 **Reel 4: "The Old Way vs. The New Way" (Both)**
 - Duration: 15 seconds
 - Format: Before/after with trending transition
-- Before: Circling blocks + sending "where should we eat?" in group chat (chaos)
-- After: Park-It green dot + Surve result in 2 min
+- Before: Circling blocks + arguing about the game score (chaos)
+- After: Park-It green dot + Surve live scoreboard
 - Text: "Upgrade your city life"
 
 ### Reusable Templates
 
 1. **"Tip of the Day" Template** — Works for both apps
    - Park-It version: Black background, white text, green accent, parking tip
-   - Surve version: White background, colorful accents, survey tip
+   - Surve version: White background, colorful accents, sports scoring tip
    - Same layout, different brand colors
 
 2. **"Did You Know?" Template** — Stats and facts
    - Park-It: "The average driver spends 17 minutes looking for parking per trip"
-   - Surve: "Surveys under 5 questions get 2.5x more completions"
+   - Surve: "The average pickup game has 3 score disputes. Surve has zero."
 
 3. **"This or That" Story Template** — Interactive engagement
    - Works for both apps with brand-appropriate styling
@@ -377,10 +377,10 @@ This creates a content loop:
 - Monthly "Best Park" contest — most creative/unlikely parking win
 
 **Surve UGC:**
-- Encourage users to share surprising survey results
-- Hashtag: #SurveResults
-- "Survey of the Week" — repost the most interesting survey shared publicly
-- Feature creative survey use cases (wedding planning, classroom feedback, event planning)
+- Encourage users to share exciting game scores and close finishes
+- Hashtag: #SurveScores
+- "Game of the Week" — repost the most exciting score shared publicly
+- Feature creative sport tracking use cases (rec leagues, school tournaments, family game nights)
 
 **Joint UGC:**
 - #SmartCityTools — any content showing either or both apps in daily life
@@ -533,10 +533,10 @@ This creates a content loop:
 `#CityDriver #ParkingStress #DowntownParking #SmartCity #DriveSmarter #ParkingSolved #CityHacks #UrbanTech #MobilityTech #IndieApp`
 
 ### Surve Primary
-`#Surve #SurveyApp #QuickSurveys #TeamFeedback #WorkSmarter #MobileSurveys #FeedbackLoop #RealTimeResults #SurveyMadeSimple #DecideFaster`
+`#Surve #ScoreTracker #SportsApp #LiveScore #GameOn #SportScoring #Scoreboard #RealTimeScores #TapToScore #AllSports`
 
 ### Surve Secondary
-`#TeamCulture #ProductivityHack #NoMoreMeetings #QuickPolls #DataDriven #UserFeedback #EventPlanning #TeamTools #WorkplaceTools #IndieApp`
+`#PickupGames #RecLeague #GameTracker #SportsLife #CourtTime #ScoreMadeSimple #GameNight #SportsHack #IndieApp`
 
 ### Cross-Promo / Studio
-`#AutonomousApps #SmartCityTools #IndieStudio #BuildInPublic #AppDev #IndieDevLife #TwoAppsOneTeam #SmartCityChallenge #CityHacks`
+`#AutonomousApps #SmartLiving #IndieStudio #BuildInPublic #AppDev #IndieDevLife #TwoAppsOneTeam #SmartCityChallenge #ActiveLifestyle`

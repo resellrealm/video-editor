@@ -338,81 +338,81 @@ First Park → 2nd Park:       35-45%
 ### App Store Listing
 
 **Title (30 chars max):**
-`Surve: Quick Surveys & Polls`
+`Surve: Live Sports Scores`
 
 **Subtitle (30 chars max):**
-`Create, Share & Get Feedback`
+`Track Any Game in Real-Time`
 
 **Keyword Field (100 chars):**
-`survey,polls,feedback,questionnaire,forms,quiz,team survey,NPS,rating,opinion,vote,survey maker,ask`
+`sports,scores,live score,scoreboard,score tracker,game score,basketball,football,tennis,cricket,rugby`
 
-**Category:** Primary: `Productivity` | Secondary: `Business`
+**Category:** Primary: `Sports` | Secondary: `Utilities`
 
 ### App Store Description
 
 ```
-Create beautiful surveys in seconds. Get real-time results instantly.
+Track live sports scores for any game, any sport. Tap to score.
 
-Surve is the fastest way to gather feedback. Whether you're running a team standup, planning an event, or just need a quick poll — Surve gets you answers fast.
+Surve is the simplest way to keep score. Whether you're coaching a team, playing a pickup game, or tracking a tournament — Surve keeps score so you can focus on the game.
 
-CREATE SURVEYS IN SECONDS
-Build surveys with 5 question types: Multiple Choice, Rating, Text, NPS Score, and Yes/No. Our 3-step wizard makes it effortless.
+TAP TO SCORE
+One tap to add a point. Track scores for home and away teams with large, easy-to-tap buttons. Haptic feedback on every score.
 
-SHARE INSTANTLY
-Send your survey via link, message, or social media. Anyone can respond — no app download required for respondents.
+10 SPORTS SUPPORTED
+Rugby, Football, Basketball, Tennis, Cricket, Baseball, Hockey, Volleyball, Soccer, and Badminton — each with sport-specific scoring and terminology.
 
-REAL-TIME RESULTS
-Watch responses roll in live. See analytics update as each response arrives.
+REAL-TIME SYNC
+Scores sync live to the cloud. Share a game and others can follow along in real-time.
 
-SPORTS SCORING
-Track live scores for Rugby, Football, Basketball, Tennis, and Cricket. Perfect for rec leagues, pickup games, and tournament tracking.
+GAME HISTORY
+Every game is saved — see final scores, timestamps, and which sport. Browse your complete match history.
 
 BEAUTIFUL DESIGN
-Clean, professional interface that looks great on any device. Dark mode included.
+Sport-specific color themes and field backgrounds. Clean, distraction-free scoring interface. Dark mode included.
 
-PRIVACY CONTROLS
-Enable anonymous responses. Set response limits. You control who sees what.
+PAUSE & RESUME
+Pause games at halftime, resume when ready. Never lose track of the score.
 
-Start surveying smarter. Download Surve today.
+Start scoring smarter. Download Surve today.
 ```
 
 ### Screenshot Brief (5 Screens)
 
 | # | Screen | Headline | Subtext |
 |---|--------|----------|---------|
-| 1 | Home dashboard with survey cards | **Surveys Made Simple** | Create & manage all your surveys |
-| 2 | Create survey wizard (question step) | **5 Question Types. Endless Possibilities.** | Multiple choice, rating, NPS & more |
-| 3 | Survey detail with analytics | **Real-Time Results** | Watch responses come in live |
-| 4 | Sports scoring interface | **Track Live Scores** | 5 sports. Real-time sync. |
-| 5 | Profile with stats | **Your Survey Dashboard** | Track your impact |
+| 1 | Sport selection grid (10 sports) | **Track Any Sport** | Choose your game and start scoring |
+| 2 | Live scoring interface (basketball) | **Tap to Score** | Large buttons, haptic feedback |
+| 3 | Active game with score and timer | **Real-Time Scoreboard** | Live sync across devices |
+| 4 | Game history with completed matches | **Your Match History** | Every game, every score |
+| 5 | Profile with stats | **Your Sports Dashboard** | Track your games and streaks |
 
 ---
 
 ## 2. Growth Strategy — Product-Led Growth (PLG)
 
-Surve's primary growth engine is **the product itself**. Every survey shared is an acquisition channel.
+Surve's primary growth engine is **the product itself**. Every shared game score is an acquisition channel.
 
 ### Viral Loop
 
 ```
-User creates survey → Shares link → Respondent sees Surve branding →
-Respondent downloads Surve → Creates their own survey → Shares → Repeat
+User tracks a game → Shares score/result → Viewer sees Surve branding →
+Viewer downloads Surve → Tracks their own games → Shares → Repeat
 ```
 
 **Key PLG Tactics:**
 
-1. **Branded survey pages:** Every shared survey shows "Powered by Surve" with download CTA
-2. **Post-response CTA:** After completing a survey, respondent sees "Create your own survey with Surve — Free"
-3. **Share results:** Users can share survey results as images/cards on social media (branded)
-4. **Template library:** Pre-built survey templates (Team Retro, Event Feedback, Customer NPS) lower barrier to creation
+1. **Branded score cards:** Every shared game result shows "Scored with Surve" with download CTA
+2. **Live score sharing:** Share a live game link — spectators see real-time scores and can download Surve
+3. **Share results:** Users can share final scores as images/cards on social media (branded)
+4. **Sport communities:** Engage rec league organizers, coaches, and pickup game groups who need easy scoring
 
-**Expected viral coefficient:** 0.3-0.5 (each survey creator brings 0.3-0.5 new creators via respondent conversion)
+**Expected viral coefficient:** 0.3-0.5 (each scorer brings 0.3-0.5 new users via game sharing)
 
 ### Paid UA (Phase 2 — After PLG Validation)
 
 Start with organic/PLG for first 2 months. If viral coefficient < 0.3, add:
-- Apple Search Ads: $500/month targeting "survey app", "poll maker", "feedback form"
-- Meta Ads: $500/month targeting team leads, event planners, educators
+- Apple Search Ads: $500/month targeting "score tracker", "scoreboard app", "live score"
+- Meta Ads: $500/month targeting coaches, rec league players, sports fans
 - **Expected CAC:** $2.00-5.00
 
 ---
@@ -421,16 +421,16 @@ Start with organic/PLG for first 2 months. If viral coefficient < 0.3, add:
 
 ### Blog/SEO Topics (8 Articles)
 
-1. "How to Create a Survey in 60 Seconds (Step-by-Step)"
-2. "The Best Free Survey Apps for iPhone in 2026"
-3. "10 Team Retrospective Survey Templates You Can Use Today"
-4. "NPS Surveys: What They Are and How to Use Them"
-5. "Event Feedback Survey Questions That Actually Work"
-6. "Google Forms vs Surve: Which Is Better for Mobile?"
-7. "How to Get More Survey Responses: 7 Proven Tips"
-8. "Quick Polls for Team Meetings: Why They Matter"
+1. "How to Track Sports Scores on Your iPhone (Step-by-Step)"
+2. "The Best Free Scoreboard Apps for iPhone in 2026"
+3. "10 Sports You Can Score with Surve"
+4. "Rec League Score Tracking: Why Your League Needs a Digital Scoreboard"
+5. "How to Keep Score in Cricket, Rugby & More — The Easy Way"
+6. "Surve vs Paper Scoreboards: Why Coaches Are Switching"
+7. "How to Share Live Game Scores with Your Team"
+8. "Pickup Game Score Tracking: Never Argue About the Score Again"
 
-**Target keywords:** survey app, poll maker, free survey app, NPS survey app, event feedback survey, team survey app
+**Target keywords:** score tracker app, scoreboard app, live score app, sports scoring app, keep score app, game score tracker
 
 ### Social Media Calendar — 2 Weeks (Instagram + TikTok)
 
@@ -438,20 +438,20 @@ Start with organic/PLG for first 2 months. If viral coefficient < 0.3, add:
 
 | Day | Platform | Content |
 |-----|----------|---------|
-| Mon | IG Reel | "Create a survey in 60 seconds" — speed demo |
-| Tue | TikTok | "POV: Your boss asks for team feedback by EOD" — show Surve as solution |
-| Wed | IG Carousel | "5 Surveys Every Team Should Run" — template showcase |
-| Thu | TikTok | "Rating apps that help me at work" — Surve gets 10/10 |
-| Fri | IG Story | Poll: "How do you usually collect feedback?" — engagement driver |
+| Mon | IG Reel | "Track any game score in seconds" — speed demo |
+| Tue | TikTok | "POV: Nobody remembers the score at halftime" — show Surve as solution |
+| Wed | IG Carousel | "10 Sports You Can Score with Surve" — sport showcase |
+| Thu | TikTok | "Rating apps for pickup games" — Surve gets 10/10 |
+| Fri | IG Story | Poll: "How do you usually keep score?" — engagement driver |
 
 #### Week 2: Conversion
 
 | Day | Platform | Content |
 |-----|----------|---------|
-| Mon | IG Reel | User testimonial: "Surve replaced our Google Forms" |
-| Tue | TikTok | "Things I use every week at work" listicle featuring Surve |
+| Mon | IG Reel | User testimonial: "Surve is how our rec league tracks every game" |
+| Tue | TikTok | "Things I bring to every pickup game" listicle featuring Surve |
 | Wed | IG Static | Clean screenshot with "Free on the App Store" |
-| Thu | TikTok | Quick demo of sports scoring feature |
+| Thu | TikTok | Quick demo of basketball scoring — tap to score live |
 | Fri | IG + TT | "Thank you for [X] downloads" milestone post |
 
 ---
@@ -467,21 +467,21 @@ Start with organic/PLG for first 2 months. If viral coefficient < 0.3, add:
 | **Launch Day** | Post at 12:01 AM PT. Share on all social channels. Send email blast. Engage with EVERY comment on PH within 1 hour. Post in relevant Slack/Discord communities. Share on X/Twitter with #producthunt tag. |
 | **Day After** | Thank supporters. Share PH results on social. Follow up with all bloggers/press. If Top 5, use badge in all marketing materials. |
 
-**Product Hunt Tagline:** "Create beautiful surveys in seconds. Get instant results."
+**Product Hunt Tagline:** "Track live sports scores for any game. Tap to score."
 
 **First Comment (Maker Comment):**
-> Hey Product Hunt! I'm excited to share Surve — the survey app I wish existed.
+> Hey Product Hunt! I'm excited to share Surve — the sports score tracker I wish existed.
 >
-> I built Surve because every time I needed quick feedback from my team, I'd waste 10 minutes fighting with clunky form builders. Surve lets you create a survey in under 60 seconds, share it instantly, and see responses in real-time.
+> I built Surve because every time I played a pickup game or coached a match, nobody could remember the score. Surve lets you tap to score for any sport — basketball, football, tennis, cricket, rugby, and more.
 >
 > What makes Surve different:
-> - 3-step survey creation (title → questions → settings → done)
-> - 5 question types including NPS scoring
-> - Real-time analytics as responses come in
-> - Built-in sports scoring (for the rec league players out there)
-> - Dark mode, haptic feedback, native iOS feel
+> - 10 sports with sport-specific scoring and terminology
+> - One-tap scoring with haptic feedback
+> - Real-time score sync across devices
+> - Full game history with timestamps
+> - Dark mode, sport-themed color schemes, native iOS feel
 >
-> I'd love your feedback — what features would you want to see next?
+> I'd love your feedback — what sports should we add next?
 
 ### App Review Site Submissions
 - AppAdvice
@@ -499,28 +499,28 @@ Start with organic/PLG for first 2 months. If viral coefficient < 0.3, add:
 
 | Stage | Park-It | Surve |
 |-------|---------|-------|
-| **Acquisition** | ASA, Meta Ads, TikTok, SEO, social content | PLG (shared surveys), PH launch, SEO, social |
-| **Activation** | First successful "Park It" tap + car save | First survey created + first response received |
-| **Retention** | Push notifications near saved spots, parking timer alerts, history | Email notifications on new responses, streak badges, templates |
-| **Revenue** | Premium features (alerts, favorites, extended history) | Premium (advanced question types, branding removal, analytics export) |
-| **Referral** | Share parking spot → both get Premium trial | Every shared survey = acquisition channel + post-response CTA |
+| **Acquisition** | ASA, Meta Ads, TikTok, SEO, social content | PLG (shared game scores), PH launch, SEO, social |
+| **Activation** | First successful "Park It" tap + car save | First game scored + first game completed |
+| **Retention** | Push notifications near saved spots, parking timer alerts, history | Game history, streak badges, sport-specific features |
+| **Revenue** | Premium features (alerts, favorites, extended history) | Premium (advanced stats, tournament mode, team management) |
+| **Referral** | Share parking spot → both get Premium trial | Every shared game score = acquisition channel + live score CTA |
 
 ## Hook Model Implementation
 
 | Element | Park-It | Surve |
 |---------|---------|-------|
-| **Trigger** | External: Parked car, need to find it. Internal: Anxiety about forgetting location | External: Need feedback. Internal: Curiosity about responses |
-| **Action** | Tap Park-It button (minimal effort) | Create survey in 3 steps (low friction) |
-| **Variable Reward** | See exactly how far your car is, discover new parking patterns in history | Watch responses roll in real-time, see surprising results |
-| **Investment** | Save favorite spots, add vehicles, build parking history | Build survey library, grow response network, develop templates |
+| **Trigger** | External: Parked car, need to find it. Internal: Anxiety about forgetting location | External: Game starting, need to keep score. Internal: Competitive drive to track results |
+| **Action** | Tap Park-It button (minimal effort) | Select sport, tap to score (minimal friction) |
+| **Variable Reward** | See exactly how far your car is, discover new parking patterns in history | Watch the score change live, review close games in history |
+| **Investment** | Save favorite spots, add vehicles, build parking history | Build game history, track win streaks, develop sport preferences |
 
 ## Blue Ocean Positioning
 
 | | Park-It | Surve |
 |--|---------|-------|
-| **Red Ocean (avoid)** | Competing with Google Maps on navigation, SpotHero on booking | Competing with SurveyMonkey on enterprise features |
-| **Blue Ocean (own)** | "Where's my car?" memory + GPS + instant save. No other app does this one job this well | Mobile-first, 60-second survey creation. Speed is the feature. |
-| **Key differentiator** | Monochrome premium design, one-tap UX, parking-only focus | 3-step wizard, real-time results, built-in sports scoring |
+| **Red Ocean (avoid)** | Competing with Google Maps on navigation, SpotHero on booking | Competing with ESPN/major score apps on professional leagues |
+| **Blue Ocean (own)** | "Where's my car?" memory + GPS + instant save. No other app does this one job this well | Mobile-first, tap-to-score for pickup games and rec leagues. No other app makes casual scoring this easy. |
+| **Key differentiator** | Monochrome premium design, one-tap UX, parking-only focus | 10 sports, one-tap scoring, sport-specific themes, real-time sync |
 
 ---
 
@@ -546,7 +546,7 @@ Start with organic/PLG for first 2 months. If viral coefficient < 0.3, add:
 | Total Installs | 1,265-2,910 | 300-800 |
 | Blended CAC | $1.55-3.56 | $0.25-0.67 (content cost only) |
 | Signups | 760-2,040 | 210-560 |
-| Activated Users | 300-1,120 | 105-280 |
+| Activated Users (first game scored) | 300-1,120 | 105-280 |
 
 ---
 

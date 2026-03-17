@@ -70,7 +70,7 @@ These are the first 5 videos to produce, ordered by impact and urgency. Each map
 
 ---
 
-## Video 3: Surve Speed Demo — "Survey in 60 Seconds"
+## Video 3: Surve Speed Demo — "Score a Game in 10 Seconds"
 
 **Source:** Cross-Promotion Strategy > Week 1 Tuesday Surve IG Feed + Marketing Strategy > Surve Content Plan > Week 1 Monday
 **Purpose:** Primary organic content piece + reusable for Product Hunt and App Store preview
@@ -82,24 +82,24 @@ These are the first 5 videos to produce, ordered by impact and urgency. Each map
 | **Duration** | 15 seconds |
 | **Aspect Ratio** | 9:16 (vertical) + 16:9 (landscape for Product Hunt) |
 | **Resolution** | 1080x1920 (9:16), 1920x1080 (16:9) |
-| **Caption Style** | Colorful, friendly text. Bold sans-serif (system default or Inter Bold). White text on semi-transparent dark pill-shaped backgrounds. |
+| **Caption Style** | Colorful, energetic text. Bold sans-serif (system default or Inter Bold). White text on semi-transparent dark pill-shaped backgrounds. |
 | **CTA Overlay** | "Surve — Free on the App Store" with download link, last 3 seconds |
 
 ### Script & Shot List
 
 | Timecode | Shot | Visual | Text Overlay | Audio |
 |----------|------|--------|-------------|-------|
-| 0:00–0:02 | Shot 1 — Hook | Timer appears: "00:00" starts counting. Text challenge framing. | `Can I create a survey in 60 seconds?` (top, bold) | Upbeat timer/challenge music |
-| 0:02–0:05 | Shot 2 — Create | Screen recording: Open Surve → tap "Create Survey" → type title "Team Lunch Poll" → tap Next | Timer running in corner: `00:08` | Music continues, keyboard taps |
-| 0:05–0:09 | Shot 3 — Questions | Screen recording: Add question "Where should we eat?" → select Multiple Choice → add options (Thai, Italian, Sushi, Mexican) → tap Next | Timer: `00:22` | Music building |
-| 0:09–0:11 | Shot 4 — Share | Screen recording: Tap "Share" → link copied → paste into iMessage group | Timer: `00:34` → stops. `Done!` | Triumphant sound effect |
-| 0:11–0:13 | Shot 5 — Results | Screen recording: 2 seconds later, responses start appearing in real-time analytics view. Numbers ticking up. | `Real-time results` (center) | Satisfying ping sounds per response |
-| 0:13–0:15 | Shot 6 — End Card | Surve logo on clean background | `Survey created in 34 seconds. Surve — Free on the App Store.` | Music resolve |
+| 0:00–0:02 | Shot 1 — Hook | Timer appears: "00:00" starts counting. Text challenge framing. | `Can I start tracking a game in 10 seconds?` (top, bold) | Upbeat timer/challenge music |
+| 0:02–0:05 | Shot 2 — Select Sport | Screen recording: Open Surve → tap Sports tab → select Basketball from the grid | Timer running in corner: `00:03` | Music continues, tap sounds |
+| 0:05–0:09 | Shot 3 — Score | Screen recording: Large scoring buttons appear → tap Home +1, +1, +1 → tap Away +1, +1 → score shows 3-2 | Timer: `00:08` → stops. `Done!` | Music building, haptic-like sounds |
+| 0:09–0:11 | Shot 4 — Live Board | Screen showing the live scoreboard, score updating with smooth animations | `Live scoreboard. Any sport.` (center) | Crowd cheering sound |
+| 0:11–0:13 | Shot 5 — History | Screen recording: Finish game → score saved to history with timestamp | `Every game tracked` (center) | Satisfying save sound |
+| 0:13–0:15 | Shot 6 — End Card | Surve logo on clean background | `10 sports. One tap to score. Surve — Free on the App Store.` | Music resolve |
 
 ### Production Notes
-- Screen recording must show actual Surve app flow
-- Timer overlay should be persistent in top-right corner throughout shots 1-4
-- The speed should feel impressive but not rushed — show it's genuinely easy
+- Screen recording must show actual Surve app sports scoring flow
+- Timer overlay should be persistent in top-right corner throughout shots 1-3
+- The speed should feel impressive — show how fast it is to start tracking a game
 - Export 16:9 version for Product Hunt page and App Store preview video
 
 ---
@@ -139,9 +139,9 @@ These are the first 5 videos to produce, ordered by impact and urgency. Each map
 
 ---
 
-## Video 5: Surve "Meeting vs. Survey" Split Screen
+## Video 5: Surve "Whiteboard vs. App" Split Screen
 
-**Source:** Cross-Promotion Strategy > Video/Reel Concepts > Reel 2 "Meeting vs. Survey"
+**Source:** Cross-Promotion Strategy > Video/Reel Concepts > Reel 2 "Paper Scoreboard vs. Surve"
 **Purpose:** Surve conversion content for Week 2, also reusable as Meta ad creative
 **Priority:** MEDIUM — scheduled for Week 2 but high reuse value
 
@@ -158,16 +158,16 @@ These are the first 5 videos to produce, ordered by impact and urgency. Each map
 
 | Timecode | Shot | Visual (Left — Old Way) | Visual (Right — Surve Way) | Text Overlay | Audio |
 |----------|------|------------------------|---------------------------|-------------|-------|
-| 0:00–0:03 | Setup | Calendar notification: "Team sync — 30 min" | Opens Surve app | `The old way` / `The Surve way` (header, each side) | Split: boring hold music (L) vs upbeat tap (R) |
-| 0:03–0:07 | Action | Person joins Zoom, waiting room, 3 people trickle in late | Types question "Where should we do team offsite?", adds 4 options, taps Share | (none — visual storytelling) | Hold music continues (L) / keyboard taps (R) |
-| 0:07–0:12 | Waiting | Person looking bored on Zoom. Someone says "can you repeat that?" Clock shows 20 min passed. | Phone shows 8 responses in 2 minutes. Results bar chart updating in real-time. | Left: `20 minutes later...` Right: `2 minutes later...` | Dragging music (L) / ping sounds (R) |
-| 0:12–0:16 | Result | Zoom ends. One vague decision made. Person sighs. | Clear winner on results screen. Person smiles, closes app. | Left: `1 decision. 30 minutes.` Right: `1 decision. 2 minutes.` | Sad trombone (L) / victory chime (R) |
-| 0:16–0:20 | CTA | Left side fades to gray | Right side expands to full frame. Surve logo. | `30 minutes vs. 30 seconds. Download Surve — Free.` | Upbeat resolve |
+| 0:00–0:03 | Setup | Whiteboard propped up courtside with marker | Opens Surve app, selects Basketball | `The old way` / `The Surve way` (header, each side) | Split: squeaky marker sound (L) vs upbeat tap (R) |
+| 0:03–0:07 | Action | Someone runs over to whiteboard, erases score, rewrites it wrong. Argument ensues. | Tap home team +1, score updates instantly with haptic feedback. Clean and clear. | (none — visual storytelling) | Arguing sounds (L) / satisfying tap sounds (R) |
+| 0:07–0:12 | Mid-game | Whiteboard falls over. Score smudged. "What was the score again?" | Phone shows 24-18 clearly. Both teams can see the live score. | Left: `What's the score??` Right: `24 — 18` | Confusion (L) / crowd energy (R) |
+| 0:12–0:16 | Result | Whiteboard abandoned. Players arguing. Game ruined. | Game finished. Final score saved. High fives all around. | Left: `Game over. Nobody agrees.` Right: `Game over. 32 — 28. Saved.` | Sad trombone (L) / victory chime (R) |
+| 0:16–0:20 | CTA | Left side fades to gray | Right side expands to full frame. Surve logo. | `Every game deserves a scoreboard. Download Surve — Free.` | Upbeat resolve |
 
 ### Production Notes
 - Split-screen format requires precise timing synchronization between both sides
-- Left side should feel intentionally dull (muted colors, slow pacing)
-- Right side should feel energetic and modern (bright, snappy)
+- Left side should feel intentionally chaotic (messy whiteboard, arguments)
+- Right side should feel clean and modern (crisp UI, smooth animations)
 - The moment right side "wins" and expands to full frame at 0:16 should be a satisfying transition
 - Also export as `instagram-reel` preset for IG distribution
 
@@ -179,9 +179,9 @@ These are the first 5 videos to produce, ordered by impact and urgency. Each map
 |---|-------|-----|--------|----------|-----------|
 | 1 | "Where Did I Park??" UGC Ad | Park-It | `park-it-ad` | 15s | Launch day (paid ads) |
 | 2 | "One Tap. Done." Feature Demo | Park-It | `park-it-ad` | 6s | Launch day (paid ads) |
-| 3 | "Survey in 60 Seconds" Speed Demo | Surve | `surve-ad` | 15s | Social launch week |
+| 3 | "Score a Game in 10 Seconds" Speed Demo | Surve | `surve-ad` | 15s | Social launch week |
 | 4 | "Stop Circling" POV City Drive | Park-It | `tiktok-viral` | 18s | Social launch week |
-| 5 | "Meeting vs. Survey" Split Screen | Surve | `surve-ad` | 20s | Week 2 content |
+| 5 | "Whiteboard vs. App" Split Screen | Surve | `surve-ad` | 20s | Week 2 content |
 
 ## Next in Queue (Videos 6-10)
 
@@ -189,6 +189,6 @@ After the first 5 are produced, the next priorities are:
 
 6. **"A Day with Both Apps"** (Studio cross-promo Reel, 30s) — `instagram-reel` preset — Cross-Promotion Strategy Week 3
 7. **Park-It Carousel Ad** (Pain Point, 4 slides as video) — `park-it-ad` preset — Meta Ads Variant 5
-8. **Surve Product Hunt Video** (App preview, 30s) — `surve-ad` preset — Surve Launch Plan
+8. **Surve Product Hunt Video** (Sports scoring app preview, 30s) — `surve-ad` preset — Surve Launch Plan
 9. **"The Old Way vs. The New Way"** (Both apps, 15s) — `tiktok-viral` preset — Cross-Promotion Reel 4
 10. **Park-It "Parking Speedrun"** (Screen recording, 15s) — `park-it-ad` preset — Cross-Promotion Reel 1

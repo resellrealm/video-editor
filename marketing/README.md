@@ -9,7 +9,7 @@ This directory contains the marketing strategies for the **Autonomous App Studio
 | App | Description | Target Audience |
 |-----|-------------|-----------------|
 | **Park-It** | Premium monochrome parking app (iOS) | Urban drivers, commuters, city explorers |
-| **Surve** | Survey and feedback app (iOS) | Teams, organizations, event planners |
+| **Surve** | Sports score tracking app (iOS) | Sports fans, coaches, rec league players, teams |
 | **Nutrio+** | Nutrition tracking app (iOS) | Health-conscious individuals |
 
 ---
@@ -27,7 +27,7 @@ Full advertising and growth strategy for Park-It and Surve, including:
 - Budget Summary — $4,700/month total with expected returns
 
 ### 2. [Social Media Cross-Promotion Strategy](./social-media-cross-promotion-strategy.md)
-Cross-promotion plan linking Park-It and Surve under the "Smart City Living" brand umbrella:
+Cross-promotion plan linking Park-It and Surve under the "Smart Living" brand umbrella:
 - Cross-pollination tactics (in-app banners, shared email footers, joint landing page)
 - Unified social media plan with platform prioritization and posting schedule
 - 4-week content calendar with specific copy, visuals, and scripts for each post
