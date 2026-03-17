@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ app_name }} Intro</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      width: 1080px;
+      height: 1920px;
+      background-color: #111827;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      overflow: hidden;
+    }
+
+    .container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 40px;
+      padding: 80px;
+      text-align: center;
+    }
+
+    .icon-wrap {
+      width: 160px;
+      height: 160px;
+      background-color: #2563EB;
+      border-radius: 40px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 20px;
+    }
+
+    .icon-wrap svg {
+      width: 90px;
+      height: 90px;
+      fill: #ffffff;
+    }
+
+    .app-name {
+      font-size: 120px;
+      font-weight: 800;
+      color: #ffffff;
+      letter-spacing: -2px;
+      line-height: 1;
+    }
+
+    .app-name span {
+      color: #3B82F6;
+    }
+
+    .divider {
+      width: 120px;
+      height: 6px;
+      background-color: #3B82F6;
+      border-radius: 3px;
+    }
+
+    .tagline {
+      font-size: 48px;
+      font-weight: 400;
+      color: #D1D5DB;
+      letter-spacing: 1px;
+      line-height: 1.3;
+      max-width: 800px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="icon-wrap">
+      <!-- Parking pin icon -->
+      <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5S10.62 6.5 12 6.5s2.5 1.12 2.5 2.5S13.38 11.5 12 11.5z"/>
+      </svg>
+    </div>
+
+    <div class="app-name">{{ app_name }}</div>
+
+    <div class="divider"></div>
+
+    <div class="tagline">{{ tagline }}</div>
+  </div>
+</body>
+</html>

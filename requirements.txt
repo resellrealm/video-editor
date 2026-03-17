@@ -1,0 +1,23 @@
+# AI Video Editor — Dependencies
+# Core
+flask
+jinja2
+
+# Video editing
+moviepy>=2.0
+pillow
+
+# AI analysis
+scenedetect[opencv]
+faster-whisper
+opencv-python
+
+# Background removal
+rembg
+onnxruntime
+
+# Audio
+pyttsx3
+
+# Auto-editing
+auto-editor

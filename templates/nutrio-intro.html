@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ app_name }} Intro</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      width: 1080px;
+      height: 1920px;
+      background-color: #064E3B;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      overflow: hidden;
+    }
+
+    /* Subtle green radial glow */
+    .glow {
+      position: absolute;
+      width: 1000px;
+      height: 1000px;
+      border-radius: 50%;
+      background: radial-gradient(circle, rgba(16, 185, 129, 0.2) 0%, transparent 65%);
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      pointer-events: none;
+    }
+
+    .container {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 44px;
+      padding: 80px;
+      text-align: center;
+      z-index: 1;
+    }
+
+    .icon-wrap {
+      width: 164px;
+      height: 164px;
+      background: linear-gradient(135deg, #059669, #10B981);
+      border-radius: 44px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 16px;
+      box-shadow: 0 0 70px rgba(16, 185, 129, 0.45);
+    }
+
+    .icon-wrap svg {
+      width: 96px;
+      height: 96px;
+      fill: #ffffff;
+    }
+
+    .app-name {
+      font-size: 122px;
+      font-weight: 800;
+      color: #ffffff;
+      letter-spacing: -2px;
+      line-height: 1;
+    }
+
+    .app-name .plus {
+      color: #34D399;
+    }
+
+    .accent-bar {
+      width: 130px;
+      height: 6px;
+      background: linear-gradient(90deg, #10B981, #F59E0B);
+      border-radius: 3px;
+    }
+
+    .tagline {
+      font-size: 48px;
+      font-weight: 400;
+      color: #A7F3D0;
+      letter-spacing: 0.5px;
+      line-height: 1.4;
+      max-width: 820px;
+    }
+
+    .stat-row {
+      display: flex;
+      gap: 40px;
+      margin-top: 12px;
+    }
+
+    .stat {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .stat-value {
+      font-size: 52px;
+      font-weight: 700;
+      color: #34D399;
+    }
+
+    .stat-label {
+      font-size: 26px;
+      color: #6EE7B7;
+      font-weight: 400;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+    }
+
+    .stat-divider {
+      width: 2px;
+      height: 80px;
+      background-color: rgba(52, 211, 153, 0.3);
+      align-self: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="glow"></div>
+
+  <div class="container">
+    <div class="icon-wrap">
+      <!-- Leaf / nutrition icon -->
+      <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <path d="M17 8C8 10 5.9 16.17 3.82 21.34L5.71 22l1-2.3A4.49 4.49 0 0 0 8 20C19 20 22 3 22 3c-1 2-8 2-5 8"/>
+      </svg>
+    </div>
+
+    <div class="app-name">{{ app_name }}</div>
+
+    <div class="accent-bar"></div>
+
+    <div class="tagline">{{ tagline }}</div>
+
+    <div class="stat-row">
+      <div class="stat">
+        <div class="stat-value">500+</div>
+        <div class="stat-label">Nutrients</div>
+      </div>
+      <div class="stat-divider"></div>
+      <div class="stat">
+        <div class="stat-value">1M+</div>
+        <div class="stat-label">Foods</div>
+      </div>
+      <div class="stat-divider"></div>
+      <div class="stat">
+        <div class="stat-value">AI</div>
+        <div class="stat-label">Powered</div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

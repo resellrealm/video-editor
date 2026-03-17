@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ app_name }} Outro</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      width: 1080px;
+      height: 1920px;
+      background-color: #111827;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      overflow: hidden;
+    }
+
+    .container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 60px;
+      padding: 80px;
+      text-align: center;
+    }
+
+    .app-name {
+      font-size: 96px;
+      font-weight: 800;
+      color: #ffffff;
+      letter-spacing: -2px;
+      line-height: 1;
+    }
+
+    .cta-text {
+      font-size: 52px;
+      font-weight: 600;
+      color: #ffffff;
+      line-height: 1.3;
+      max-width: 840px;
+    }
+
+    .cta-text span {
+      color: #3B82F6;
+    }
+
+    .badges {
+      display: flex;
+      flex-direction: column;
+      gap: 28px;
+      align-items: center;
+      margin-top: 20px;
+    }
+
+    .badge {
+      width: 480px;
+      height: 100px;
+      border-radius: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 20px;
+      font-size: 32px;
+      font-weight: 600;
+      color: #ffffff;
+    }
+
+    .badge-apple {
+      background-color: #1F2937;
+      border: 2px solid #374151;
+    }
+
+    .badge-google {
+      background-color: #1F2937;
+      border: 2px solid #374151;
+    }
+
+    .badge svg {
+      width: 36px;
+      height: 36px;
+      fill: #ffffff;
+      flex-shrink: 0;
+    }
+
+    .divider {
+      width: 120px;
+      height: 6px;
+      background-color: #3B82F6;
+      border-radius: 3px;
+    }
+
+    .footer-note {
+      font-size: 32px;
+      color: #6B7280;
+      font-weight: 400;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="app-name">{{ app_name }}</div>
+
+    <div class="divider"></div>
+
+    <div class="cta-text">{{ cta_text }}</div>
+
+    <div class="badges">
+      <!-- App Store badge placeholder -->
+      <div class="badge badge-apple">
+        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+          <path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/>
+        </svg>
+        App Store
+      </div>
+
+      <!-- Google Play badge placeholder -->
+      <div class="badge badge-google">
+        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+          <path d="M3.18 23.76c.3.16.64.22.99.16l.09-.05 11.65-6.53-2.52-2.52-10.21 8.94zm-1.13-19.9c-.05.18-.05.38-.05.57v19.14c0 .21.02.41.08.6l.04.09 10.73-10.73v-.25L2.09 3.77l-.04.09zm14.96 13.36l-3.27-3.27 3.27-3.27 3.69 2.07c1.05.59 1.05 1.56 0 2.15l-3.69 2.07v.25zm-3.27-3.27L2.09 3.68c.3-.16.64-.22.99-.16l.09.05 11.57 6.48-3.1 3.1z"/>
+        </svg>
+        Google Play
+      </div>
+    </div>
+
+    <div class="footer-note">Free to download</div>
+  </div>
+</body>
+</html>

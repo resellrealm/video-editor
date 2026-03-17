@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ app_name }} Outro</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      width: 1080px;
+      height: 1920px;
+      background-color: #064E3B;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      overflow: hidden;
+    }
+
+    .glow {
+      position: absolute;
+      width: 1000px;
+      height: 1000px;
+      border-radius: 50%;
+      background: radial-gradient(circle, rgba(16, 185, 129, 0.18) 0%, transparent 65%);
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      pointer-events: none;
+    }
+
+    .container {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 52px;
+      padding: 80px;
+      text-align: center;
+      z-index: 1;
+    }
+
+    .app-name {
+      font-size: 96px;
+      font-weight: 800;
+      color: #ffffff;
+      letter-spacing: -2px;
+      line-height: 1;
+    }
+
+    .app-name .plus {
+      color: #34D399;
+    }
+
+    .headline {
+      font-size: 68px;
+      font-weight: 700;
+      color: #D1FAE5;
+      line-height: 1.2;
+      max-width: 860px;
+    }
+
+    .headline span {
+      color: #F59E0B;
+    }
+
+    .accent-bar {
+      width: 130px;
+      height: 6px;
+      background: linear-gradient(90deg, #10B981, #F59E0B);
+      border-radius: 3px;
+    }
+
+    .feature-list {
+      display: flex;
+      flex-direction: column;
+      gap: 28px;
+      width: 840px;
+    }
+
+    .feature-item {
+      display: flex;
+      align-items: center;
+      gap: 28px;
+      background-color: rgba(16, 185, 129, 0.12);
+      border: 1.5px solid rgba(52, 211, 153, 0.25);
+      border-radius: 24px;
+      padding: 32px 44px;
+    }
+
+    .feature-dot {
+      width: 20px;
+      height: 20px;
+      background-color: #34D399;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+
+    .feature-text {
+      font-size: 38px;
+      font-weight: 500;
+      color: #A7F3D0;
+      text-align: left;
+    }
+
+    .cta-button {
+      background: linear-gradient(135deg, #059669, #10B981);
+      border-radius: 100px;
+      padding: 40px 110px;
+      font-size: 46px;
+      font-weight: 700;
+      color: #ffffff;
+      letter-spacing: 0.5px;
+      box-shadow: 0 8px 48px rgba(16, 185, 129, 0.5);
+    }
+
+    .sub-text {
+      font-size: 32px;
+      color: #6EE7B7;
+      font-weight: 400;
+    }
+  </style>
+</head>
+<body>
+  <div class="glow"></div>
+
+  <div class="container">
+    <div class="app-name">{{ app_name }}</div>
+
+    <div class="accent-bar"></div>
+
+    <div class="headline">
+      <span>{{ cta_text }}</span><br />Live Better.
+    </div>
+
+    <div class="feature-list">
+      <div class="feature-item">
+        <div class="feature-dot"></div>
+        <div class="feature-text">Track every meal instantly</div>
+      </div>
+      <div class="feature-item">
+        <div class="feature-dot"></div>
+        <div class="feature-text">Personalized nutrition goals</div>
+      </div>
+      <div class="feature-item">
+        <div class="feature-dot"></div>
+        <div class="feature-text">AI-powered food insights</div>
+      </div>
+    </div>
+
+    <div class="cta-button">Download Free</div>
+
+    <div class="sub-text">iOS &amp; Android</div>
+  </div>
+</body>
+</html>
