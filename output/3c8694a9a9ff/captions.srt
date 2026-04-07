@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:01,139
+Hello World, this is
+
+2
+00:00:01,139 --> 00:00:01,780
+a test on the
+
+3
+00:00:01,780 --> 00:00:03,759
+video capturing pipeline, it
+
+4
+00:00:03,759 --> 00:00:04,980
+should detect these words
+
+5
+00:00:04,980 --> 00:00:06,080
+and add subtitles.
+

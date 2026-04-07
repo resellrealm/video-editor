@@ -12,3 +12,4 @@ output/*.mkv
 *.egg-info/
 dist/
 build/
+output/*.srt
